@@ -14,3 +14,8 @@ For fun.
     - One thing I came across while building the ELF loader is the AUX array.
       It's an array setup by the kernel loader to pass some general information
       to the dynamic linker. It's implicitly setup in the original stack.
+
+## Fun Read
+
+- [How the ELF Ruined Christmas](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-di-frederico.pdf)
+
