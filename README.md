@@ -1,5 +1,7 @@
 # GLIBC Source Code (v2.30)
 
+Update: I have another post that covers more ground (ELF loading, kernel module loading etc): http://lastweek.io/notes/dynamic_linking/.
+
 ## C Start Up (csu)
 
 - `csu/libc-start.c`
